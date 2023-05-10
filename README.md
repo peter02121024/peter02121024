@@ -1,0 +1,3 @@
+- 👋 Hi, I’m wuweijia
+- 👀 I’m interested in sports
+- 🌱 I’m currently learning javascript
